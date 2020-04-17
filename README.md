@@ -42,11 +42,21 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Describe Middleware?
 
+    Middleware are functions that get response and request objects and
+    operate on them and can sometimes trigger an action.
+
 - [ ] Describe a Resource?
+
+    A resource refers to whatever you're accessing with your endpoints.
+    They are accessed through unique URLs.
 
 - [ ] What can the API return to help clients know if a request was successful?
 
+    HTTP Status codes
+
 - [ ] How can we partition our application into sub-applications?
+
+    By using server-side routing.
 
 ## Minimum Viable Product
 
